@@ -26,7 +26,30 @@ In order to use the Note Taker, it is necessary to have a code editor, such as V
 
 ## Usage
 
+Before proceeding with the following usage instructions, ensure that you have successfully completed all installation requirements.
+
+1. **Run the server**
+- Open the integrated terminal by right-clicking on server.js and selecting 'Open in Integrated Terminal.'
+- Execute the command `node server.js` in your terminal to run the server. 
+- The server has successfully started if the console log displays the message: `Server is running on http://localhost:3001`.
+
+2. **Access the Application**
+- Open your web browser and enter `http://localhost:3001`, or simply windows/command click the provided link in the Integrated Terminal.
+
+3. **Get Started with Note Taking**
+- On the opening page, click 'Get Started' to navigate to the note-taking page.
+
+4. **Create and Save Notes**
+- Enter in a Title for your note along with a description. 
+- Once satisified with your note, click 'Save Note' in the upper right corner of the screen. You may save an unlimited amount of notes.
+- Your saved note will appear in the notes bar on the left. 
+
+5. **Manage Notes**
+-  To remove a note, either select the trash can icon next to the note's title or open the note and click 'Delete Note' in the upper right corner. 
+- *Note: Deleted notes cannot be retrieved, so exercise caution when removing them.*
+
 ## How to Contribute
+
 ### Thank you for your interest and support!
 
 ## Credits
