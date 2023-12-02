@@ -12,7 +12,7 @@ const readFromFile = () => {
   
 // Function to write to db.json
 const writeToFile = (data) => {
-    fs.writeFileSync(dbFilePath, JSON.stringify(data, null, 2), 'utf8');
+    fs.writeFileSync(dbFilePath, JSON.stringify(data), 'utf8');
 };
   
 module.exports = { readFromFile, writeToFile };
