@@ -50,6 +50,13 @@ Before proceeding with the following usage instructions, ensure that you have su
 
 ## How to Contribute
 
+Feel free to contribute to the improvement of the Note Taker by reporting any encountered issues, suggesting enhancements, or sharing your valuable feedback. If you come across any issues during your usage, kindly open a new issue or submit a pull request via this repository. Your contributions are appreciated.
+
+Furthermore, you are encouraged to voice any concerns, propose improvements, or offer suggestions. Do not hesitate to reach out on any of these matters—I am eager to collaborate with you to enhance the Note Taker.
+
+GitHub Profile: samanthashleyrose <br>
+Email: samantha.rose327@gmail.com
+
 ### Thank you for your interest and support!
 
 ## Credits
