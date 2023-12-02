@@ -5,6 +5,8 @@
 
 The Note Taker is a user-friendly application designed for efficient note-taking. With a powerful Express.js backend, this site provides a streamlined experience allowing users to easily to create, save, and access your thoughts whenever you need them. The application stores note data in a JSON file, providing a lightweight and straightforward solution for organizing and managing your notes.
 
+add of site UI screenshots here
+
 ## Table of Contents
 
 - [Installation](#installation)
