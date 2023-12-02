@@ -67,10 +67,14 @@ Email: samantha.rose327@gmail.com
 
 #### Technologies Used:
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
+<li><a href="https://www.npmjs.com/package/express">NPM</a></li>
 <li><a href="https://chat.openai.com/">ChatGPT</a></li>
 
 #### Documentation Used:
 <li><a href="https://github.com/coding-boot-camp/miniature-eureka/tree/main/Develop/public">Starter Code</a></li>
+<li><a href="https://expressjs.com/en/guide/routing.html">Routing - expressjs.com</a></li>
+<li><a href="https://www.codecademy.com/article/what-is-express-js">What is Express.js? - Codecademy</a></li>
+<li><a href="https://www.youtube.com/watch?v=DGMdgWCDgFM">Thomas' Express JS Note Taker | UofT Coding Bootcamp Module 11 - Youtube</a></li>
 
 ## License
 
