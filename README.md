@@ -3,11 +3,13 @@
 
 ## Description
 
+The Note Taker is a user-friendly application designed for efficient note-taking. With a powerful Express.js backend, this site provides a streamlined experience allowing users to easily to create, save, and access your thoughts whenever you need them. The application stores note data in a JSON file, providing a lightweight and straightforward solution for organizing and managing your notes.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [How To Contribute](#how-to-contribute)
 - [Credits](#credits)
 - [License](#license)
@@ -47,6 +49,16 @@ Before proceeding with the following usage instructions, ensure that you have su
 5. **Manage Notes**
 -  To remove a note, either select the trash can icon next to the note's title or open the note and click 'Delete Note' in the upper right corner. 
 - *Note: Deleted notes cannot be retrieved, so exercise caution when removing them.*
+
+See [Features](#features) for a video demonstrating these steps.
+
+## Features
+
+**Effortless Note Creation:** Write and save notes with a simple and intuitive interface. <br>
+**Secure Storage:** Utilizes an Express.js backend to store and retrieve note data from a JSON file. <br>
+**User-Friendly Design:** Enjoy a smooth and user-friendly experience for efficient note management.
+
+insert demo video here
 
 ## How to Contribute
 
