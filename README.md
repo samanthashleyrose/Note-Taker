@@ -7,7 +7,7 @@ The Note Taker is a user-friendly application designed for efficient note-taking
 
 The application stores note data in a JSON file, providing a lightweight and straightforward solution for organizing and managing your notes. The Note Taker application prioritizes modularity to enhance code organization and maintainability, such as creating a separate `db-utils.js` file, the codebase is structured for clear separation of concerns, facilitating easier maintenance for future enhancements. 
 
-add of site UI screenshots here
+![Homepage Screenshot](./public/assets/imgs/homepage-sc.png)
 
 ## Table of Contents
 
