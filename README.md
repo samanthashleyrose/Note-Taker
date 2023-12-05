@@ -30,7 +30,7 @@ No installation necessary!
 
 2. **Create and Save Notes**
 - Enter in a Title for your note along with a description. 
-- Once satisified with your note, click 'Save Note' in the upper right corner of the screen. You may save an unlimited amount of notes.
+- Once satisfied with your note, click 'Save Note' in the upper right corner of the screen. You may save an unlimited amount of notes.
 - Your saved note will appear in the notes bar on the left. 
 
 3. **Manage Notes**
@@ -90,9 +90,9 @@ In order to use the Note Taker, it is necessary to have a code editor, such as V
 
 2. Initiate the cloning process from the GitHub repository by selecting "Code." Copy the SSH link then execute the `git clone <paste SSH link>` command in your terminal/command-line. Next, open the cloned project in your preferred code editor.
 
-3. Verify the installation of npm, which usually comes bundled with Node.js. Execute the command `npm -v` in the intergrated terminal to confirm that you have the latest version downloaded. If npm is not installed, run the command `npm i` before continuing.
+3. Verify the installation of npm, which usually comes bundled with Node.js. Execute the command `npm -v` in the integrated terminal to confirm that you have the latest version downloaded. If npm is not installed, run the command `npm i` before continuing.
 
-4. In addition run the command `npm install express`. For the Note Taker to function properly, you must have express listed as a dependecny in your package.json file.
+4. In addition run the command `npm install express`. For the Note Taker to function properly, you must have express listed as a dependency in your package.json file.
 
 **Usage**
 
