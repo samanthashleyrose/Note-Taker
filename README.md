@@ -25,7 +25,7 @@ No installation necessary!
 
 ## Usage
 
-1. **Get Started with Note Taking**
+1. **Get Started with <a href="https://note-taker-application-327-02a5ee5b2f69.herokuapp.com/">Note Taking</a>**
 - On the opening page, click 'Get Started' to navigate to the note-taking page.
 
 2. **Create and Save Notes**
