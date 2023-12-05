@@ -45,7 +45,7 @@ See [Features](#features) for a video demonstrating these steps.
 **Secure Storage:** Utilizes an Express.js backend to store and retrieve note data from a JSON file. <br>
 **User-Friendly Design:** Enjoy a smooth and user-friendly experience for efficient note management.
 
-insert demo video here
+https://github.com/samanthashleyrose/Note-Taker/assets/142939966/c84c0770-8c22-488c-94e8-230f691d1977
 
 ## Credits
 
